@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Developement",
+        "value":"6 Courses",
+        "img":"https://cdn.pixabay.com/photo/2018/05/04/20/01/website-3374825_960_720.jpg"
+        },
+        {
+            "name":"Web Design",
+            "value":"7 Courses",
+            "img":"https://cdn.pixabay.com/photo/2016/09/14/08/26/web-1668927_960_720.jpg"
+            },
+            { 
+                "name":"Graphic Design",
+                "value":"2 Courses",
+                "img":"https://cdn.pixabay.com/photo/2017/10/10/21/47/laptop-2838921_960_720.jpg"
+            },
+            {
+                "name":"WordPress",
+                "value":"3 Courses",
+                "img":"https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849821_960_720.jpg"
+             }
+]
