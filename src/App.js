@@ -18,6 +18,9 @@ function App() {
         <Route path="/home">
           <Home></Home>
         </Route>
+        <Route exact path='/'>
+          <Home></Home>
+        </Route>
         <Route path="/courses">
           <Courses></Courses>
         </Route>
@@ -27,7 +30,7 @@ function App() {
         <Route path="/contact">
          <Contact></Contact> 
         </Route>
-        <Route path="*">
+        <Route exact path="*">
         <NotFound></NotFound>
         </Route>
       </Switch>
