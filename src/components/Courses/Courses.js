@@ -20,6 +20,7 @@ const Courses = () => {
           <Card.Text>
                 {course.price}
             </Card.Text>
+            <p>Time: {course.time}</p>
             <Button variant="primary">Enroll Now</Button>
           </Card.Body>
           </Card>
