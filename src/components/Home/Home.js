@@ -14,8 +14,9 @@ const Home = () => {
     return (
         <div>
            <h1 className="mt-5">Popular Catagories</h1><br/>
+           <div className='homepage'>
            {
-             data.map(dt=><Card style={{ width: '18rem' }} className="ms-4 d-md-inline-flex">
+             data.map(dt=><Card style={{ width: '18rem' }}>
              <Card.Img variant="top" src={dt.img} />
              <Card.Body>
                <Card.Title>{dt.name}</Card.Title>
@@ -24,7 +25,10 @@ const Home = () => {
                </Card.Text>
                <Button variant="primary">Details</Button>
              </Card.Body>
-           </Card>)}
+           </Card>
+           
+               )}
+          </div>
         </div>
     );
 };

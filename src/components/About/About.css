@@ -1,0 +1,15 @@
+.about{
+    background-image: url('https://www.aihr.com/wp-content/uploads/Learning-and-development.png');
+    
+    height: 400px;
+    width: 100%;
+    background-color: gainsboro;
+}
+.about h1{
+    position:absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+  
+}

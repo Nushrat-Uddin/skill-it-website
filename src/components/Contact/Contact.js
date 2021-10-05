@@ -1,8 +1,10 @@
 import React from 'react';
+import './contact.css'
 
 const Contact = () => {
     return (
-        <div className="contact mt-5">
+         <div className="contact mt-5">
+        
             <h2 className="mb-5">Leave Us A Message</h2>
             <h5>Email : <small>support@gmail.com</small></h5>
             <h5 className="mt-4">Phone Number : <small>019885658876</small></h5>

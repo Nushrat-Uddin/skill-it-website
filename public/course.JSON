@@ -1,6 +1,6 @@
 [
     {
-        "name":"The Complete Javascript Course",
+        "name":"Full Javascript Course",
         "time":"15 days",
         "price":"$29",
         "img":"https://images.pexels.com/photos/4050320/pexels-photo-4050320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
@@ -9,32 +9,45 @@
             "name":"Web Design Full Course",
             "time":"20 days",
             "price":"$19",
-            "img":"https://images.pexels.com/photos/4492135/pexels-photo-4492135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            "img":"https://cdn.mos.cms.futurecdn.net/CT9xCjqrhnPD4ivB6B8Hqe.jpg"
         },
         {
             "name":"Full Stack Web Development Course",
             "time":"3 month 25 days",
             "price":"$40",
-            "img":"https://images.pexels.com/photos/4012966/pexels-photo-4012966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            "img":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png"
         },
         {
-            "name":"Full Stack Web Development Course",
-            "time":"3 month 25 days",
-            "price":"$40",
-            "img":"https://images.pexels.com/photos/4012966/pexels-photo-4012966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            "name":"WordPress For Beginners",
+            "time":"30 days",
+            "price":"$25",
+            "img":"https://legiit-service.s3.amazonaws.com/8772251049924ea0c181827c39a2e1b5/f5b9e4f7031a7ab65e02a6bada91d153.jpg"
         },
         {
-            "name":"Full Stack Web Development Course",
+            "name":"Graphic Design Course",
             "time":"3 month 25 days",
-            "price":"$40",
-            "img":"https://images.pexels.com/photos/4012966/pexels-photo-4012966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            "price":"$30",
+            "img":"https://osdigitalworld.com/wp-content/uploads/2020/11/Graphic-_Design.jpg"
         },
         {
-            "name":"Full Stack Web Development Course",
-            "time":"3 month 25 days",
-            "price":"$40",
-            "img":"https://images.pexels.com/photos/4012966/pexels-photo-4012966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            "name":"Python Learning Beginner",
+            "time":"1 month",
+            "price":"$25",
+            "img":"https://image.shutterstock.com/image-photo/saint-petersburg-russia-july-4-600w-1447245065.jpg"
+        },
+        {
+            "name":"Cyber Security Course",
+            "time":"3 month",
+            "price":"$35",
+            "img":"https://image.shutterstock.com/image-photo/internet-network-security-concept-blurred-600w-1891609453.jpg"
+        },
+        {
+            "name":"Full Graphic Design Course",
+            "time":"5 month",
+            "price":"$55",
+            "img":"https://osdigitalworld.com/wp-content/uploads/2020/11/Graphic-_Design.jpg"
         }
+
 
         
         
