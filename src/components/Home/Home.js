@@ -19,7 +19,7 @@ const Home = () => {
              data.map(dt=><Card style={{ width: '18rem' }}>
              <Card.Img variant="top" src={dt.img} />
              <Card.Body>
-               <Card.Title>{dt.name}</Card.Title>
+               <Card.Title className='title'>{dt.name}</Card.Title>
                <Card.Text>
                  {dt.value}
                </Card.Text>

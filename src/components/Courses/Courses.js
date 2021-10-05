@@ -18,7 +18,7 @@ const Courses = () => {
             courses.map(course=><Card style={{ width: '18rem' }} >
           <Card.Img variant="top" className="image" src={course.img} />
           <Card.Body>
-          <Card.Title>{course.name}</Card.Title>
+          <Card.Title className='title'>{course.name}</Card.Title>
           <Card.Text>
                 {course.price}
             </Card.Text>
