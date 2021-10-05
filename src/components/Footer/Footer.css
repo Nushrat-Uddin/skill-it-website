@@ -7,3 +7,6 @@
 .i1{
     margin-right: 10px;
 }
+.i1:hover{
+    color: orange;
+}

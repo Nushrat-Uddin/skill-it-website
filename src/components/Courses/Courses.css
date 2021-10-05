@@ -6,7 +6,7 @@
 }
 .image{
     height: 200px;
-    width: 200px;
+    width: 100%;
 }
 .title:hover{
     color: lightseagreen;
